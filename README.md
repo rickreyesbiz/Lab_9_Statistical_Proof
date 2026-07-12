@@ -1,1 +1,2 @@
+# Lab_9_Statistical_Proof
 This lab applies the Student’s t‑test—a statistical method used to determine whether two sample means are significantly different by comparing their distributions while accounting for sample size—to evaluate whether paired groups of measurements, such as housing‑age and median‑value data, could plausibly come from the same underlying population.
